@@ -1,6 +1,0 @@
-Database user name -- Daku 
-passward ---- daku@demo.co
-
-
-
-aws security token-- $ubject7356552
